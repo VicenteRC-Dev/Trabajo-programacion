@@ -40,8 +40,7 @@ python main.py
 ## 🪞 Imágenes
 
 <p align="center">
-  <img width="450" height="340" alt="Vista 1" src="https://github.com/user-attachments/assets/f7dd7e73-9f36-4327-a5fb-c9570a3cf363" />
-  <img width="450" height="340" alt="Vista 2" src="https://github.com/user-attachments/assets/c17a9a6b-3c5b-4f47-beef-312642a7294d" />
+  <img src="https://github.com/user-attachments/assets/f7dd7e73-9f36-4327-a5fb-c9570a3cf363" width="48%"> <img src="https://github.com/user-attachments/assets/c17a9a6b-3c5b-4f47-beef-312642a7294d" width="48%">
 </p>
 
 ## 📊 Diagrama de Flujo
