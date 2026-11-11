@@ -43,7 +43,7 @@ python main.py
 A continuación, se detalla el flujo de ejecución del programa.
 
 ```mermaid
-graph TD
+graph LR
     A([Inicio del Programa]) --> B[Ejecución de main.py]
     B --> C[Importa el paquete 'modelos']
     C --> D{Interacción con el Usuario <br> calculadora_run.py}
