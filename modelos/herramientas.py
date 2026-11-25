@@ -151,7 +151,7 @@ class Herramientas(ctk.CTk):
 
         ctk.CTkLabel(
             header,
-            text="KDZ TOOLS",
+            text="KDZ | 😼 | TOOLS",
             font=ctk.CTkFont(size=22, weight="bold"),
         ).pack(anchor="w")
 
