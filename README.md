@@ -75,3 +75,15 @@ Este proyecto fue creado como parte de una evaluación académica de programaci�
 - Importación y creación de paquetes y módulos en Python.
 - Lógica algorítmica (Módulo 11) y persistencia de datos con SQLite.
 - Desarrollo de interfaces gráficas de usuario modernas y programación orientada a objetos.
+
+##
+
+<div align="center">
+
+<img width="640" height="360" alt="copito" src="https://github.com/user-attachments/assets/c7df20f0-44a9-47ad-8759-becd847971c3" />
+
+
+ **Creado por aburrimiento** · VicenteRC-Dev
+
+ </div>
+
