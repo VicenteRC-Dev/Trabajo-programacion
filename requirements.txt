@@ -1,4 +1,5 @@
-pyqrcode
-colorama
-pypng
-Faker
+customtkinter>=5.2.2
+Pillow>=10.0.0
+pyqrcode>=1.2.1
+pypng>=0.20220715.0
+Faker>=24.0.0
