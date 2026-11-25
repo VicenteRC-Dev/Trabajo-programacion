@@ -21,9 +21,9 @@ El proyecto sigue una arquitectura limpia basada en módulos:
 
 Al ejecutar `main.py`, se inicia la interfaz gráfica con navegación lateral organizada en dos módulos principales:
 
-* **Generadores de Datos de Prueba:** Generación configurable en lote (con opción de copiado rápido al portapapeles) de direcciones IPv4, cadenas User-Agent, direcciones postales, tarjetas de prueba (Visa / MasterCard) y números telefónicos con formato válido para Chile, España, Perú y Colombia.
-* **Calculadora de Dígito Verificador (RUN):** Calcula el dígito verificador mediante el algoritmo Módulo 11, formatea el resultado automáticamente y almacena cada consulta en una base de datos local SQLite (`historial_calculadora.db`) con visualización y limpieza de historial desde la misma ventana.
-* **Generador de Códigos QR:** Convierte texto o enlaces URL en códigos QR con vista previa instantánea dentro de la interfaz y exportación directa a archivo `.png`.
+- **Generadores de Datos de Prueba:** Generación configurable en lote (con opción de copiado rápido al portapapeles) de direcciones IPv4, cadenas User-Agent, direcciones postales, tarjetas de prueba (Visa / MasterCard) y números telefónicos con formato válido para Chile, España, Perú y Colombia.
+- **Calculadora de Dígito Verificador (RUN):** Calcula el dígito verificador mediante el algoritmo Módulo 11, formatea el resultado automáticamente y almacena cada consulta en una base de datos local SQLite (`historial_calculadora.db`) con visualización y limpieza de historial desde la misma ventana.
+- **Generador de Códigos QR:** Convierte texto o enlaces URL en códigos QR con vista previa instantánea dentro de la interfaz y exportación directa a archivo `.png`.
 
 ## 🛠️ Instalación y Requisitos
 
@@ -44,10 +44,7 @@ python main.py
 ## 🎴 Imágenes
 
 <p align="center">
-    <img width="1224" height="836" alt="image" src="https://github.com/user-attachments/assets/0fc69e3c-b18a-4fed-8041-922a3b801aa8" />
-
-
-
+  <img width="1224" height="836" alt="image" src="https://github.com/user-attachments/assets/0fc69e3c-b18a-4fed-8041-922a3b801aa8" />
 </p>
 
 ## 📊 Diagrama de Flujo
@@ -76,14 +73,9 @@ Este proyecto fue creado como parte de una evaluación académica de programaci�
 - Lógica algorítmica (Módulo 11) y persistencia de datos con SQLite.
 - Desarrollo de interfaces gráficas de usuario modernas y programación orientada a objetos.
 
-##
+---
 
 <div align="center">
-
-<img width="640" height="360" alt="copito" src="https://github.com/user-attachments/assets/c7df20f0-44a9-47ad-8759-becd847971c3" />
-
-
- **Creado por aburrimiento** · VicenteRC-Dev
-
- </div>
-
+  <img width="200" alt="copito1" src="https://github.com/user-attachments/assets/e0fc497f-1e3a-4e4d-beb4-f84d9d1cf386" /><br />
+  <strong>Creado por aburrimiento</strong> · VicenteRC-Dev
+</div>
