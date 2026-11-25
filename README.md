@@ -41,7 +41,7 @@ Para iniciar la aplicación con interfaz gráfica, abre tu terminal o consola de
 python main.py
 ```
 
-## 🎴 Imágenes
+## 🎴 Imagen
 
 <p align="center">
   <img width="1224" height="836" alt="image" src="https://github.com/user-attachments/assets/0fc69e3c-b18a-4fed-8041-922a3b801aa8" />
